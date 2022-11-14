@@ -31,7 +31,7 @@ void Message::setNemeTo(const string& toUser)
     _toUser = toUser;
 }
 
-void Message::outfild()
+void Message::outfield()
 {
     cout << _message << "\t" << _fromUser << "\t" << _toUser << endl;
 }

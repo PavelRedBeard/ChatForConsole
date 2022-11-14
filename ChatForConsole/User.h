@@ -12,7 +12,7 @@ public:
 	void setPass(const string& pass);
 	string getName() const;
 	string getPass() const;
-	void outfild();
+	void outfield();
 private:
 	string _name;
 	string _pass;

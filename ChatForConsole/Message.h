@@ -14,7 +14,7 @@ public:
 	void setMessage(const string& message);
 	void setNameFrom(const string& fromUser);
 	void setNemeTo(const string& toUser);
-	void outfild();
+	void outfield();
 private:
 	string _message;
 	string _fromUser;

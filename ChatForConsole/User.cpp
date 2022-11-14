@@ -22,7 +22,7 @@ string User::getPass() const
 	return _pass;
 }
 
-void User::outfild()
+void User::outfield()
 {
 	cout << _name << "\t" << _pass << endl;
 }
